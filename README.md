@@ -136,7 +136,6 @@ The script derives an auditor opinion from the control results:
 ## References
 
 - [AICPA Trust Services Criteria](https://www.aicpa.org/resources/landing/system-and-organization-controls-soc-suite-of-services)
-- [SOC 2 Trust Services Criteria (2017)](https://us.aicpa.org/content/dam/aicpa/interestareas/frc/assuranceadvisoryservices/downloadabledocuments/trust-services-criteria.pdf)
 - [COSO Internal Control Framework](https://www.coso.org/guidance-on-ic)
 
 ---
