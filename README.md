@@ -60,7 +60,7 @@ Confidentiality       5/5 controls effective
 
 **Auditor opinion: Unqualified with Exceptions Noted** — all 7 exceptions identified during testing were remediated within the audit period.
 
-A pre-generated sample report is available here: [View sample report]((https://joe-lee10.github.io/soc2-type2-walkthrough/report.html))
+A pre-generated sample report is available here: [View sample report](https://joe-lee10.github.io/soc2-type2-walkthrough/report.html)
 
 ---
 
